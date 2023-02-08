@@ -3,6 +3,11 @@
 # คือการสืบทอดคุณสมบัติบางอย่างที่มีมีอยู่แล้วโดยการสร้างเพิ่มเติมจากสิ่งที่มีอยู่แล้วได้เลย 
 # โดยแบ่งเป็น คลาสแม่(Superclass) ----> คลาสลูก(Subclass) Ex (Player) ----> (GK,DEF,MID,ST)
 # คุณสมบัติที่ถ่ายทอดนั้นจะถ่ายทอดได้ทั้งหมด ยกเว้น Private
+# รูปแบบการเขียน Inheritance
+# class Superclass:
+#     pass
+# class Subclass(Superclass):
+#     pass
 
 # Super() 
 # ------
