@@ -87,3 +87,4 @@ obj1._name = "Music"
 obj1.__salary = 99999
 obj1.__department = "Sleeper"
 obj1._display()
+# name เปลี่ยนได้ salary department เปลี่ยนไม่ได้
